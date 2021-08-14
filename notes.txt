@@ -1,0 +1,1 @@
+change cards with icons to accordion
