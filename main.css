@@ -1,6 +1,3 @@
-.container {
-  border: none;
-}
 .accordion-button:not(.collapsed) {
     color: white  !important;
     background-color: black !important;
