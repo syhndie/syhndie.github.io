@@ -1,5 +1,5 @@
-fix accordion button colors
-add left and top margins
 add links to repo pages
-fix spacing between icons and text on smaller screens
 make accordion arrows white when open
+    the arrows are svgs, so that may not be as easy as I thought
+    look into using fontawesome icons instead of the default arrows
+the whole thing is absolutely not DRY - fix that!
