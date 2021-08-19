@@ -1,7 +1,5 @@
-columns for icons are not standard across all rows
 create github repo pages for each project
 add links to actual repo pages
 make accordion arrows white when open
     the arrows are svgs, so that may not be as easy as I thought
     look into using fontawesome icons instead of the default arrows
-the whole thing is absolutely not DRY - fix that!
