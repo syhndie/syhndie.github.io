@@ -1,6 +1,8 @@
-get better screenshots for each project
 create github repo pages for each project
+
+publish each project??
 
 make accordion arrows white when open
     the arrows are svgs, so that may not be as easy as I thought
     look into using fontawesome icons instead of the default arrows
+
