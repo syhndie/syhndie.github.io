@@ -1,6 +1,5 @@
 get better screenshots for each project
 create github repo pages for each project
-add links to actual repo pages
 
 make accordion arrows white when open
     the arrows are svgs, so that may not be as easy as I thought
